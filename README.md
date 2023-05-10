@@ -1,2 +1,2 @@
-# Symmetria
-This repository is for the database on Icelandic pension funds.
+# engx-project-group20
+engx-project-group20 created by GitHub Classroom
